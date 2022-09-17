@@ -12,3 +12,5 @@
 </ul>
 
 https://viniferalbuquerque-contabilidade.netlify.app
+
+<img src="https://github.com/ViniFerAlbuquerque/Contabilidade-Projeto-DevClub-Programacao-do-Zero/blob/master/Captura%20de%20tela%202022-09-16%20222644.png?raw=true">
